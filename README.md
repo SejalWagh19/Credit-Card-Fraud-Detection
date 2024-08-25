@@ -5,7 +5,7 @@ This repository contains the methodology that is used for the identification of 
 The dataset used is Credit Card Fraud Detection Dataset 2023 from Kaggle. It consists of about 550,000 transactions records made by the European card holders in 2023 and to protect the cardholders identities the data has been anonymized. The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions.
 
 **Overview of the Framework:**
-1) Load the dataset: &emsp;[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data)
+1) Load the dataset: &emsp;[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 2) Data pre-processing : Resampling Technique - SMOTE, RUS
 3) Feature Selection Techniques : <br>
    (i) SelectKBest (Filter-Based Technique),   <br>
